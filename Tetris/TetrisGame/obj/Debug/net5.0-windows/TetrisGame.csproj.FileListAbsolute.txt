@@ -1,0 +1,16 @@
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\obj\Debug\net5.0-windows\TetrisGame.csproj.AssemblyReference.cache
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\obj\Debug\net5.0-windows\TetrisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\obj\Debug\net5.0-windows\TetrisGame.AssemblyInfoInputs.cache
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\obj\Debug\net5.0-windows\TetrisGame.AssemblyInfo.cs
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\obj\Debug\net5.0-windows\TetrisGame.csproj.CoreCompileInputs.cache
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\bin\Debug\net5.0-windows\TetrisGame.exe
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\bin\Debug\net5.0-windows\TetrisGame.deps.json
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\bin\Debug\net5.0-windows\TetrisGame.runtimeconfig.json
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\bin\Debug\net5.0-windows\TetrisGame.runtimeconfig.dev.json
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\bin\Debug\net5.0-windows\TetrisGame.dll
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\bin\Debug\net5.0-windows\ref\TetrisGame.dll
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\bin\Debug\net5.0-windows\TetrisGame.pdb
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\obj\Debug\net5.0-windows\TetrisGame.dll
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\obj\Debug\net5.0-windows\ref\TetrisGame.dll
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\obj\Debug\net5.0-windows\TetrisGame.pdb
+C:\Users\micka\Desktop\c-sharp_piscine\Tetris\TetrisGame\obj\Debug\net5.0-windows\TetrisGame.genruntimeconfig.cache
